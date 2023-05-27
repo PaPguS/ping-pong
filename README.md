@@ -1,2 +1,2 @@
 # ping-pong
-local miltiplayer game.
+local multiplayer game.
